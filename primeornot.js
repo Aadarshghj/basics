@@ -18,7 +18,7 @@ let p = arr[0];
 console.log(p);
 if(p==0||p==1)
 {
-  console.log("The first number is composite number");
+  console.log("The first number is neither prime nor composite");
 }
 else {
 var f=0;
